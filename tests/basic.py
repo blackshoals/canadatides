@@ -1,6 +1,6 @@
 import asyncio
 
-from pychs import CHSTides
+from canadatides import CHSTides
 
 async def main():
 
